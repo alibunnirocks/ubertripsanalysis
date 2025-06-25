@@ -6,9 +6,9 @@ Consider following me to see my journey in data science!
 
 ## findings
 When looking at each graph, I've found that:
-+the highest number of rides are during the week, particularly on Mondays
-+there is a general rise of number of rides starting at 5am, with the peak being at 6pm.
-+the region with the highest density of rides is near Manhattan, New York, and the region with the lowest density of rides is New Jersey.
++ the highest number of rides are during the week, particularly on Mondays
++ there is a general rise of number of rides starting at 5am, with the peak being at 6pm.
++ the region with the highest density of rides is near Manhattan, New York, and the region with the lowest density of rides is New Jersey.
 
 ## key info
 + data was found on DataCamp.com
